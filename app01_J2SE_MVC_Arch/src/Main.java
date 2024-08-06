@@ -26,11 +26,7 @@ public class Main {
         System.out.println(status4);
         System.out.println();
 
-        //bug  130
-        public String bug130()
-        {
-            
-        }
+       
 
 
 
